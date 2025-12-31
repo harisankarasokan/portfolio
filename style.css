@@ -221,8 +221,8 @@ footer {
         height: 300px;
     }
 }
-/* Project Report View */
-.report-view {
+/* Project Report Download */
+.report-download {
     margin-top: 20px;
 }
 
@@ -298,7 +298,7 @@ footer {
     border-bottom: none;
 }
 
-/* Items with view */
+/* Items with download */
 .cert-item {
     display: flex;
     justify-content: space-between;
@@ -306,7 +306,7 @@ footer {
     gap: 15px;
 }
 
-/* View Button */
+/* Download Button */
 .cert-btn {
     background-color: #1e293b;
     color: #e5e7eb;
@@ -395,5 +395,4 @@ footer {
     border-color: #2563eb;
     color: #ffffff;
 }
-
 
