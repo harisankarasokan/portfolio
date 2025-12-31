@@ -192,8 +192,8 @@ footer {
     display: block;
 }
 
-/* Download Resume Button */
-.download-btn {
+/* View Resume Button */
+.view-btn {
     background-color: #2563eb;
     color: #f8fafc;
     padding: 12px 26px;
@@ -204,7 +204,7 @@ footer {
     transition: background 0.3s ease;
 }
 
-.download-btn:hover {
+.view-btn:hover {
     background-color: #1d4ed8;
 }
 
@@ -221,8 +221,8 @@ footer {
         height: 300px;
     }
 }
-/* Project Report Download */
-.report-download {
+/* Project Report View */
+.report-view {
     margin-top: 20px;
 }
 
@@ -298,7 +298,7 @@ footer {
     border-bottom: none;
 }
 
-/* Items with download */
+/* Items with view */
 .cert-item {
     display: flex;
     justify-content: space-between;
@@ -306,7 +306,7 @@ footer {
     gap: 15px;
 }
 
-/* Download Button */
+/* View Button */
 .cert-btn {
     background-color: #1e293b;
     color: #e5e7eb;
@@ -395,4 +395,5 @@ footer {
     border-color: #2563eb;
     color: #ffffff;
 }
+
 
