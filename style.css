@@ -395,4 +395,25 @@ footer {
     border-color: #2563eb;
     color: #ffffff;
 }
+.cert-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cert-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px; /* 👈 downward space */
+}
+
+
+.btn-center {
+    display: flex;
+    justify-content: center;
+    gap: 15px;   /* equal space between buttons */
+    margin-top: 20px;
+}
+
 
